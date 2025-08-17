@@ -18,7 +18,7 @@ A fast & simple hash brute-forcer written in Go
   - uppercase letters (A-Z)  
   - digits (0-9)  
   - common special characters (!@#$%^&*...)  
----``
+---
 
 ### ⚠️ Limitations
 - 🔒 Charset **cannot be customized**  
