@@ -1,0 +1,8 @@
+{
+	"path": "commitizen-emoji",
+	"config": {
+		"commitizenEmoji": {
+			"conventionalFormat": true
+		}
+	}
+}
